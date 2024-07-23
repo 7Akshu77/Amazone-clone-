@@ -39,3 +39,5 @@ The project is a static site, meaning no backend functionality is implemented.
 ## Note:
 
 - Replace `yourusername` and `your-email@example.com` with your actual GitHub username and email address.
+- Make sure the images , index.html and styles.css aren present in the same folder.
+
